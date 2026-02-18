@@ -20,9 +20,7 @@ Contributions to the summit are funded by the NSF POSE II award: [An Open Source
 
 Thank you to Berkeley Institute for Data Science for providing staff and venue in-kind support for the Summit.
 
-
 [![bids](bids.png)](https://bids.berkeley.edu)
-
 
 ### Travel sponsors
 

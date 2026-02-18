@@ -7,9 +7,9 @@ project:
 
 site:
   title: "Spatial Data Science Summit 2026"
+  url: "https://Center-for-Open-Geographical-Science.github.io"
+  baseurl: "/sdss26"
   options:
-    url: "https://Center-for-Open-Geographical-Science.github.io"
-    baseurl: "/sdss26"
     logo_text: "SDSS26"
     appearance: dark
 
