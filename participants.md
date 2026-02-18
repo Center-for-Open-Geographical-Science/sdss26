@@ -23,7 +23,6 @@ title: "Participants"
 | [Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin) | University of Chicago |
 | [Mariela Alfonso](https://www.youtube.com/watch?v=yhNgWRtMBMM) | New York University |
 | [Maryam Hosseini](https://ced.berkeley.edu/people/maryam-hosseini) | University of California Berkeley |
-| [Miguel Alvarez Garcia](https://medium.com/@malvarez_89900) | Carto |
 | [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron) | University of California Santa Barbara |
 | [Serge Rey](https://sergerey.org/) | San Diego State University |
 | [Somayeh Dodge](https://somayehdodge.info/) | University of California Santa Barbara |
