@@ -8,6 +8,7 @@ title: "Participants"
 | [Carli Henderson](https://cogs.sdsu.edu/author/carli-henderson/)              | San Diego State University              |
 | [Dani Arribas-Bel](https://darribas.org/)                                     | University of Liverpool                 |
 | [Daoqin Tong](https://search.asu.edu/profile/3174976)                         | Arizona State University                |
+| [Dipto Sarkar](https://carleton.ca/geography/people/dipto-sarkar/)            | Carleton University                     |
 | [Eli Knaap](https://knaaptime.com/)                                           | University of California, Irvine        |
 | [Fernando Pérez](https://bids.berkeley.edu/people/fernando-perez)             | University of California, Berkeley      |
 | [Fletcher Foti](http://mapcraft.io)                                           | MapCraftlabs                            |
@@ -25,6 +26,7 @@ title: "Participants"
 | [Mariela Alfonso](https://www.youtube.com/watch?v=yhNgWRtMBMM)                | New York University                     |
 | [Maryam Hosseini](https://ced.berkeley.edu/people/maryam-hosseini)            | University of California Berkeley       |
 | [Marynia Kokak](https://ggis.illinois.edu/directory/profile/mkolak)           | University of Illinois Urbana-Champaign |
+| [Matt Fisher](https://dse.berkeley.edu/people/matt-fisher)                    | University of California Berkeley       |
 | [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron)         | University of California Santa Barbara  |
 | [Serge Rey](https://sergerey.org/)                                            | San Diego State University              |
 | [Somayeh Dodge](https://somayehdodge.info/)                                   | University of California Santa Barbara  |
