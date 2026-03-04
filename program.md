@@ -36,7 +36,7 @@ General welcome, meet and greet, discuss goals.
 
 ##### Evening
 
-Be sure to meet us for an informal dinner and drinks at (TBD)
+*Summit Dinner at [Eureka](https://eurekarestaurantgroup.com/locations/berkeley)(5:30-7:30)*
 
 #### Monday, March 16th
 
