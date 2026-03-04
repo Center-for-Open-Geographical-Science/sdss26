@@ -20,6 +20,8 @@ site:
       url: "/program"
     - title: "Participants"
       url: "/participants"
+    - title: "Pre-Summit Briefing"
+      url: "/presummit"
 
   actions:
     - title: "GitHub"
