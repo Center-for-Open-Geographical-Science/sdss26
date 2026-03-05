@@ -29,6 +29,7 @@ title: "Participants"
 | [Matt Fisher](https://dse.berkeley.edu/people/matt-fisher)                    | University of California Berkeley       |
 | [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron)         | University of California Santa Barbara  |
 | [Serge Rey](https://sergerey.org/)                                            | San Diego State University              |
+| [Siqin Wang](https://dornsife.usc.edu/spatial/profile/siqin-sisi-wang)                                            | University of Southern California               |
 | [Somayeh Dodge](https://somayehdodge.info/)                                   | University of California Santa Barbara  |
 | [Stéfan van der Walt](https://bids.berkeley.edu/people/stefan-van-der-walt)   | University of California Berkeley       |
 | [Taylor Oshan](https://geog.umd.edu/facultyprofile/oshan/taylor)              | University of Maryland                  |
