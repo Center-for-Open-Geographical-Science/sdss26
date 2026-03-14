@@ -7,10 +7,12 @@
 
 ##### Breakfast on-site (8:00-9:00)
 
-##### Summit Introduction (9:00-10:00)
+##### Summit Introduction (9:00-10:30)
 General welcome, meet and greet, discuss goals.
 
-##### Ecosystem Mapping I (10:30-12:00)
+##### Coffee (10:30-11:00)
+
+##### Ecosystem Mapping I (11:00-12:00)
 - Collaborate on projects, tools, and institutions.
 - PySAL applications within science, teaching, and governmental applications
 
